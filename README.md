@@ -1,2 +1,2 @@
-## portfolio
-https://github.com/rolling-scopes-school/tasks/blob/master/tasks/portfolio/portfolio-part3.md
+# custom-video
+https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-3.md
